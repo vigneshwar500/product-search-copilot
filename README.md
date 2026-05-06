@@ -38,3 +38,16 @@ Output: You can return products within 7 days.
 
 ## 🌐 Live App
 (Add your Streamlit link here)
+## 📸 Screenshots
+
+### Home Screen
+![Home](home.png)
+
+### Search Result
+![Search](search.png)
+
+### FAQ
+![FAQ](faq.png)
+
+### Ticket System
+![Ticket](ticket.png)
